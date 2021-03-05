@@ -15,7 +15,7 @@ public class Library {
     	System.out.println("Hello");
     	
     	
-    	System.out.println("thank u");
+    	System.out.println("thank your friends");
 	}
     
    
